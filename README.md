@@ -7,3 +7,5 @@ Select pilot program with new employees.
 Build an Auto ML model trained on previous data that can predict a new employees will leave.
 Deliverable: 
 Report/Dashboard
+
+Database: 2 CSV files tbl_hr_
