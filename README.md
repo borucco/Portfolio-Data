@@ -1,5 +1,5 @@
 # Portfolio
-## BigData Project - Google Cloud - Collab
+## BigQuery Project - Google Cloud - Collab
 Problem Statement:
 We are having issues with keeping employees so we would like a data analyst to help to proactively find employees that are risk.
 Approach: 
@@ -8,4 +8,6 @@ Build an Auto ML model trained on previous data that can predict a new employees
 Deliverable: 
 Report/Dashboard
 
-Database: 2 CSV files tbl_hr_
+Database: 
+tbl_hr_data.csv
+tbl_new_employees.csv
